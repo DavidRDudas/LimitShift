@@ -17,8 +17,7 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  title: LimitShift
-  logo: '/images/logo.png'
+  title: '/images/logo.png'
   description: Creating games.
   image: '/images/home_three.jpg'
 
